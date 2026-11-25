@@ -1,3 +1,8 @@
+---
+### 🔥 [NEW] CiteForge — Get Your Brand Cited by ChatGPT, Perplexity & Gemini
+> **Is your website invisible to AI search?** Audit your AI crawler access (GPTBot/ClaudeBot), generate ready-to-paste `JSON-LD` & `llms.txt`, and get a 7-day GEO action plan in 60 seconds.
+> 👉 **Try 3 Free Scans/Day (No Signup):** **[https://www.wensen.space/](https://www.wensen.space/)**
+---
 # ClawMatrix AI - Autonomous Viral Arbitrage & Cash Engine (2026 Pro)
 
 ## 📌 项目概述
